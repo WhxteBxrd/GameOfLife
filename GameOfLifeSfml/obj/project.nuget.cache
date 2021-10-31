@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tgpB+Bssl9qM8cX7TYSl13tjFcCpCZLwd4NwwAooQT1FNVuGf7YkDsnGcRD6DA4VzUYJ18nZl+S682dqOBrBPg==",
+  "success": true,
+  "projectFilePath": "D:\\Source Code\\C#\\GameOfLifeProject\\GameOfLifeSfml\\GameOfLifeSfml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chiji\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\chiji\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\chiji\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\chiji\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
